@@ -1,1 +1,1 @@
-# LugaresTur-sticos_web
+# LugaresTuristicos_web
